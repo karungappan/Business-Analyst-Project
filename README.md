@@ -1,9 +1,5 @@
 # Business-Analyst-Project
 
-If your text is not aligning correctly in your README.md file on GitHub, try formatting it using proper Markdown syntax. Here’s how you can structure it for better readability:
-
-⸻
-
 Business Analyst Project
 
 Case Study
