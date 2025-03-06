@@ -69,11 +69,12 @@ The RACI Matrix is a project management tool used to clarify and communicate rol
 
 ⸻
 
-Project Deliverables
-	•	Deliverable 1 - Qualitative and Quantitative Analysis and Recommendations
-	•	Deliverable 2 - Root Cause Analysis
-	•	Deliverable 3 - User Role Analysis
-	•	Deliverable 4 - Stakeholder Analysis and Mapping
-	•	Deliverable 5 - RACI Matrix
+	## Project Deliverables  
+
+- **Deliverable 1** - Qualitative and Quantitative Analysis and Recommendations  
+- **Deliverable 2** - Root Cause Analysis  
+- **Deliverable 3** - User Role Analysis  
+- **Deliverable 4** - Stakeholder Analysis and Mapping  
+- **Deliverable 5** - RACI Matrix  
 
 ⸻
