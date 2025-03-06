@@ -18,13 +18,13 @@ This project focuses on identifying and analyzing the root cause of declining sa
 • RACI Matrix: Responsibility assignment
 
 Here is a brief brief outline of each technique: 
-Quantitative Techniques: Utilize statistical methods and data analysis to identify patterns, trends, and anomalies in numerical data, such as sales figures, customer metrics, and performance indicators.
-Qualitative Techniques: Gather insights, opinions, and feedback through interviews, surveys, and observations to uncover subjective factors, perceptions, and underlying issues that may not be captured by quantitative data alone.
-Statistical Sampling: Statistical Sampling is a method used in research and data analysis to gather information about a population by examining only a subset, or sample, of its members. Instead of analyzing every individual within a population, statistical sampling selects a representative group based on predefined criteria. 
-Root-Cause Analysis using the 5 Whys:  The 5 Whys method involves asking "why" repeatedly to uncover the underlying cause of a problem or issue. By iteratively probing deeper into the root cause of each answer, you can identify the fundamental factors contributing to the problem.
-User Role Analysis: User Role analysis involves identifying and understanding the needs of different users. It helps with making sure that the provided  solutions match user expectations.
-Stakeholder Analysis and Mapping: Stakeholder analysis involves identifying and assessing stakeholders' interests, influence, and involvement in a project. Stakeholder mapping visualizes the relationships between stakeholders and their level of influence or interest in the project, helping prioritize communication and engagement efforts.
-RACI Matrix: The RACI Matrix is a project management tool used to clarify and communicate roles and responsibilities for project tasks. It assigns each stakeholder a role (Responsible, Accountable, Consulted or Informed) based on their involvement in each task.
+- Quantitative Techniques: Utilize statistical methods and data analysis to identify patterns, trends, and anomalies in numerical data, such as sales figures, customer metrics, and performance indicators.
+- Qualitative Techniques: Gather insights, opinions, and feedback through interviews, surveys, and observations to uncover subjective factors, perceptions, and underlying issues that may not be captured by quantitative data alone.
+- Statistical Sampling: Statistical Sampling is a method used in research and data analysis to gather information about a population by examining only a subset, or sample, of its members. Instead of analyzing every individual within a population, statistical sampling selects a representative group based on predefined criteria. 
+- Root-Cause Analysis using the 5 Whys:  The 5 Whys method involves asking "why" repeatedly to uncover the underlying cause of a problem or issue. By iteratively probing deeper into the root cause of each answer, you can identify the fundamental factors contributing to the problem.
+- User Role Analysis: User Role analysis involves identifying and understanding the needs of different users. It helps with making sure that the provided  solutions match user expectations.
+- Stakeholder Analysis and Mapping: Stakeholder analysis involves identifying and assessing stakeholders' interests, influence, and involvement in a project. Stakeholder mapping visualizes the relationships between stakeholders and their level of influence or interest in the project, helping prioritize communication and engagement efforts.
+- RACI Matrix: The RACI Matrix is a project management tool used to clarify and communicate roles and responsibilities for project tasks. It assigns each stakeholder a role (Responsible, Accountable, Consulted or Informed) based on their involvement in each task.
 
 
 3. Project Deliverables
