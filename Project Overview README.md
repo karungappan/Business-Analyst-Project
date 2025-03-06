@@ -1,6 +1,5 @@
 # Business-Analyst-Project
 
-
 Case study
 
 An eCommerce company, Northwind Trading, has been operating successfully for the past four years. Sales have been steady through this time, with some small seasonal fluctuations. However, last month's sales figures showed a downward trend for the first time, and the company also noticed that several customers posted negative comments on social media about the online store. 
