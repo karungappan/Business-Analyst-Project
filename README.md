@@ -1,4 +1,4 @@
-# README-Business-Analyst-Project
+# README - Business Analyst Project
 
 Business Analyst Project
 
